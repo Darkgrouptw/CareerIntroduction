@@ -3,7 +3,7 @@
 ## Demo
 You can play the demo in [Link](https://jin-yang-lin.herokuapp.com/Rules/Details/Unity_Doc/CareerIntroduction/)
 
-Some reinder
+Some reminders:
 * Try not to hit the barrier
 * Only test on desktop in chrome.
 * Press Z to use money to hit the barrier.
