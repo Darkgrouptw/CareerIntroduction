@@ -16,3 +16,6 @@ A project for the designer's exhibtion in 2015.
 ![](Introduction.png)
 
 This game is to tell junior hight students which skill should be capable of in different career, and how much would earn in Taiwan. It's a project for the designer's exhibtion in 2015 with seven people.
+
+## Video Link
+* [Link](https://youtu.be/DxqkYNmSDFM)
